@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Rahul-niraniya827
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋 I'm Rahul Niraniya
 
-<!---
-Rahul-niraniya827/Rahul-niraniya827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Computer Engineering Student
+
+🌱 Currently Learning:
+- Python
+- AI/ML
+- Git & GitHub
+
+🎯 Future Goals
+- Full Stack Development
+- Cloud (AWS)
+- DevOps
+
+📂 Current Repository
+- Python Practice Programs
+- AI/ML Training Projects
+
+## Connect with Me
+
+Email:
+rahulniraniya78@gmail.com
+
